@@ -16,3 +16,4 @@ class Player
         puts "Your fragment must be a start of an real word "
     end
 end
+# 
